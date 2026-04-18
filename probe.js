@@ -1,1 +1,1 @@
-fetch('/api/register',{method:'POST',headers:{'Content-Type':'application/json'},body:'{"username":"stage2probe","password":"stage2probe"}'})
+fetch('/api/register',{method:'POST',headers:{'Content-Type':'application/json'},body:'{"username":"stage2probe2","password":"stage2probe2"}'})
